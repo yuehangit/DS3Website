@@ -1,2 +1,2 @@
 # 2020-DS3-Website
-University Club Website 
+University Club Website using React and Gatsby
