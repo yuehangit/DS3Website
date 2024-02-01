@@ -1,2 +1,2 @@
-#DS3-Website
+DS3-Website
 University Club Website using React and Gatsby
